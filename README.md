@@ -2,7 +2,7 @@
 
 بعد کد های زیر رو تک تک وارد کنید
 
-git clone https://github.com/Source-advan/ESET
+git clone https://github.com/mohsenbozorgi/ESET
 
 cd ESET
 
