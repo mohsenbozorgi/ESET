@@ -29,4 +29,4 @@ echo 'Hard : '"$hdd"'%'
 echo "〰〰〰〰〰〰〰"
 echo 'Process : '"$ProcessCnt"
 echo "〰〰〰〰〰〰〰"
-echo 'Uptime : '"$uptime"
+echo 'Uptime  : '"$uptime"
