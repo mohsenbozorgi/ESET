@@ -52,6 +52,6 @@ echo -e "\e[1m**********************************"
 echo -e "\e[40;38;5;82mProcess : \e[30;48;5;82m ""$ProcessCnt\e[0m"
 sleep 0.5
 echo -e "\e[1m**********************************\e[0m"
-echo -e "\e[92m     >>>> Launching Bot <<<<\e[0m"
+echo -e "\e[92m     >>>> Launching Bot  <<<<\e[0m"
 sleep 2
 ./tg -s ESET.lua
